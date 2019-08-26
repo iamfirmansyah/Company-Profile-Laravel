@@ -1,0 +1,34 @@
+#image_div
+{
+width: 100%;
+height: auto;
+ position:relative;
+}
+#image_div img
+{
+ width:100%;
+}
+#image_div #image_label
+{
+ margin:0px;
+ position:absolute;
+ bottom:7px;
+
+}
+.text-highl{
+    text-align: left; 
+    font-weight:bold ;
+    margin:0px;
+    position:absolute;
+    bottom:7px;
+}
+#image_div #image_label  
+{
+ opacity:0.8;
+ font-size:25px;
+ padding:7px;
+ box-sizing:border-box;
+ color:white;
+ font-weight:bold;
+ font-family: arial;
+}

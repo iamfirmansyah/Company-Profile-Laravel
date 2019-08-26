@@ -1,0 +1,183 @@
+.be {
+    font-weight: bold;
+    background-color: white;
+    padding: 15px 50px 15px 50px;
+    color: black;
+    border: 5px solid black;
+    font-size: 18px;
+}
+.be:hover {
+   font-size: 18px;
+    font-weight: bold;
+    background-color: white;
+    padding: 17px 65px 17px 65px;
+    color: black;
+    border: 3px solid white;
+}
+.pr-1{
+    margin-right: 10px;
+  }
+  .awesome-font{
+    color: black;
+    font-size: 20px;
+  }
+  .font-foot{
+    font-family: Avenir;
+    font-size: 20px;
+    line-height: 12px;
+    text-align: left;
+    font-weight: 400;
+    color: black
+
+  }
+  .font-job{
+    font-family: Avenir;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 8px;
+  }
+  .pdm{
+    padding-left: 140px;padding-top: 20px
+  }
+.font-modal{
+  color: #000000;
+  font-family: Avenir;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: left;
+  font-weight: 500;
+}
+.bg-text-1 {
+color: #4A4A4A;
+font-family: Avenir;
+font-size: 17px;
+font-weight: 600;
+line-height: 24px;
+}
+.ptt-1{
+padding-top:2%;
+}
+.foto-tim{
+  width:420px;
+  height:580px;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.blackee{
+  -webkit-filter:brightness(97%); 
+  width:420px;
+  height:580px;
+  background-color: black
+}
+
+.back{
+  width:30px;
+  height: 30px;
+  margin-left: -16px;
+  margin-top: -16px;
+  margin-bottom: 5px;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.ceo-mindstores-jim {
+    color: #9B9B9B;
+    font-family: Avenir;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    text-align: center;
+  }
+.to {
+    color: #4A4A4A;
+    font-family: Avenir;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 43px;
+    text-align: center;
+  }
+.c {
+    color: #9B9B9B;
+    font-family: Avenir;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 43px;
+    text-align: left;
+  }
+  .owl-dots{
+    display: none;
+}
+  body{
+      background-color: white;
+  }
+  .mind {
+    color: #4A4A4A;
+    font-family: Avenir;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 24px;
+    text-align: left;
+  }
+  .who {
+    color: #4A4A4A;
+    font-family: Avenir;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 50px;
+    text-align: left;
+  }
+.gray{
+    color: #8E8E8E;
+}
+.label{
+    font-family: calibri;
+    color: #8E8E8E;
+    font-size: 17px;
+    letter-spacing: 0.2px;
+}
+.yellowkaro:hover{
+    -webkit-filter:brightness(92%); 
+    height: 384px;
+    cursor : pointer;
+    
+  }
+.usercard-image1a:hover{
+    transform:scale(1.1);
+    transition:.1s;
+    box-shadow:0 8px 8px 0 rgba(255, 226, 108, 0.1),0 6px 20px 0 rgba(255, 226, 100, 0.2);
+    height: 384px;
+    color: white;
+    padding: 5%;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+
+@media(max-width:900px){
+.p10yeh{
+    padding-left:7%;
+}
+.foto-tim{
+  width:0;
+  height:0;
+}
+.h1media{
+  font-size: 26px
+}
+.pdm{
+  padding:0;
+  padding-left: 13px
+}
+.blackee{
+  width:0px;
+  height:0px;
+}
+.font-job{
+    font-family: Avenir;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 8px;
+  }
+}

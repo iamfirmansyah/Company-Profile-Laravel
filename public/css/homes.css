@@ -1,0 +1,77 @@
+
+.owl-dots{
+    display: none;
+}
+body{
+  background: white !important;
+  overflow-x: hidden;
+}
+.gambar-1{
+    background-image: url('img/content/about/img-about-4.png');
+    background-size: 100%;
+    width: 338px;
+    background-repeat: no-repeat;
+    height: 260px;
+}
+.gambar-2{
+    background-image: url('img/content/about/image-about-3.png');
+    background-size: 100%;
+    width: 338px;
+    background-repeat: no-repeat;
+    height: 260px;
+}
+.gambar-3{
+    background-image: url('img/content/about/image-about-2.png');
+    background-size: 100%;
+    box-shadow: 0 0 20px 0 rgba(76, 69, 69, 0.22), inset 0 1px 3px 0 rgba(0, 0, 0, 0.5);
+    width: 338px;
+    height: 260px;
+    z-index: 100;
+}
+.gambar-3:hover{
+    box-shadow: 0 0 20px 0 rgba(76, 69, 69, 0.22), inset 0 1px 3px 0 rgba(0, 0, 0, 0.5);
+    transform:scale(2);
+    transition:.1s;
+}
+.gambar-4{
+    background-image: url('img/content/about/image-about-1.png');
+    background-size: 100%;
+    width: 338px;
+    height:260px;
+}
+
+    .item-1{
+      
+      width: 100%;
+      color:black;
+      height: 580px;
+      background-position: left top;
+      background-size: cover;
+      align:center;
+    }
+      .item-2{
+      width: 100%;
+      height: 22rem;
+      background-position: left top;
+      background-size: cover;
+      align:center;
+      margin: %;
+    }
+    .pd-t-10{
+      margin-top: 15%;
+    }
+    .blank{
+      width: 100%;
+    }
+    .p{
+  color: #000000;
+  font-family: Avenir;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: justify;
+  margin: 1%;
+  }
+  .pl-3 {
+    padding-left: 3%;
+  }

@@ -1,0 +1,124 @@
+  body{
+    background: white !important;
+    overflow-x: hidden;
+  }
+  .peh{
+    color: #4A4A4A;
+ font-family: Avenir-Book;
+ font-size: 17px;
+ font-weight: 500;
+ line-height: 25px;
+ margin-left: 2%;
+ margin-right: 5%;
+ }
+ .p{
+ color: #23201F;
+ font-family: OpenSans;
+ font-size: 18px;
+ font-weight: 800;
+ line-height: 22px;
+ text-align: center;
+}
+ .hh{
+ color: #4A4A4A;
+ font-family: Avenir;
+ font-size: 32px;
+ font-weight: 800;
+ line-height: 50px;
+ margin-left:  2%;
+ }
+.img-icon{
+ width: 2rem ;
+ margin: 3%;
+ margin-top: 5%;
+ font-size: 30px;
+ color: #4A4A4A;
+}
+  .mg-2{
+    margin-left: 5%;
+  }
+.peh{
+     color: #4A4A4A;
+  font-family: Avenir;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 25px;
+  margin-left: 2%;
+  margin-right: 5%;
+  }
+  .imaeh{
+    height: 525px;
+        color: white;
+        position: relative;
+        background-size: cover;
+        background-repeat: no-repeat;
+  }
+    .usercard-imagee{
+        
+        height: 525px;
+        color: white;
+        padding: 5%;
+        position: relative;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+    
+    .usercard-imagee:hover{
+        transition:.1s;
+        box-shadow:0 8px 8px 0 rgba(225, 226, 100, 0.37),0 6px 20px 0 rgba(255, 226, 100, 0.2);
+        color: white;
+        padding: 5%;
+        position: relative;
+        background-size: cover;
+        background-repeat: no-repeat;
+        -webkit-filter:brightness(100%);
+    }
+
+    
+    .cntent{
+      color: #FFFFFF;
+      font-family: Avenir;
+      font-size: 42px;
+      font-weight: 900;
+      line-height: 50px;
+      text-align: left;
+      margin: 5px;
+    }
+
+    .black{
+        color: black;
+    }
+            
+    .card-foto2{
+        margin: 1%;
+        background-image: url('{{asset('public/img/content/Asset/pixlip.jpg')}}');
+        height: 523px;
+        background-size: cover;
+        width: 100%;
+        background-position: center;
+        color: white;
+        margin: 1%;
+    }
+    .kotak2{
+        width: 100%;
+        background-color: #E4CC5E;
+        opacity:0.9;
+        height: 523px;
+      }
+
+    .none-b{
+      border:3px solid white;
+    }
+    
+ 
+  @media(max-width: 900px){
+        .cntent{
+      color: #FFFFFF;
+      font-family: Avenir;
+      font-size: 32px;
+      font-weight: 900;
+      line-height: 40px;
+      text-align: left;
+    }
+  }

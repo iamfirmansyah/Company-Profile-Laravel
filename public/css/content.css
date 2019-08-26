@@ -1,0 +1,183 @@
+*:not(i){
+    font-family: Avenir !important;
+}
+body{
+    margin:0;
+    padding: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.footer{
+
+    background-color: #252525;
+    
+}
+
+.footer-text{
+    color: white;
+    padding-left: 3%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.artikel-image{
+    color: white;
+    padding: 2px;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    height: 450px;
+}
+.artikel-text{
+    padding: 5%;
+}
+
+.usercard-text{
+    position: absolute;
+    bottom: 10px;
+}
+.rectangle-1{
+    background-color: #FAFAFA;
+    width: 395px;
+    height: 291px;
+    font-family: Avenir;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 48px;
+    text-align: left;
+  }
+  
+  .rectangle-1a{
+    background-color: #FAFAFA;
+    width: 398px;
+    height: 242px;
+    font-family: Avenir;
+    /* font-size: 36px;
+    font-weight: 900; */
+    /* line-height: 48px; */
+    /* width: 350px; */
+    text-align: left;
+  }
+  .rectangle-2{
+    background-color: #323232;
+    width: 395px;
+    height: 291px;
+    font-family: Avenir;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 48px;    
+    text-align: left;
+  }
+.usercard-bg{
+    background-color: rgb(245, 245, 245);
+    height: 584px;
+    padding: 5%;
+    position: relative;
+}
+
+.usercard-bg-2{
+    background-color: #262626;
+    padding: 5%;
+    color: white;
+    position: relative;
+    height: 584px;
+}
+
+.bg-card-2{
+    background-image:url(../img/content/Asset/FindOut.jpg);
+    height: 500px;
+    background-size: cover; 
+    background-position: bottom;
+}
+
+.bg-card-3{
+    background-image:url(../img/content/Asset/MoreThings.jpg);
+    height: 500px;
+    background-size: cover;
+}
+.image-dptail-artikel{
+    background-image:url(../img/content/Group.png);
+    height: 500px;
+}
+.bg-black{
+    background: rgb(24, 24, 24);
+}
+.button-back-artikel{
+    background: rgb(24, 24, 24);
+    padding: 25px 25px 25px 25px;
+    color: white;
+    width: 80px;
+    height: 80px;
+}
+.category-background{
+    margin-top:-25px;
+    background-color: #23201F;
+    width: 300px;
+    height: 90px;
+}
+
+.grand-launching-of-a {
+    color: #23201F;
+    /* font-family: Avenir; */
+    font-size: 36px;
+    font-weight: 800;
+    width: 880px;
+    text-align: left;
+  }
+  .about-our{
+    color: #4A4A4A;
+    font-family: Avenir;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 29px;
+    text-align: left;
+  }
+
+  .bg-about-1{
+      background-image:url(../img/content/about/bg-users.png);
+      height: 226px;  
+          
+  }
+  .bg-about-2{
+      background-image:url(../img/content/about/bg-cube.png);
+      height: 226px;
+  }
+  .bg-about-3{
+      background-image:url(../img/content/about/bg-basket.png);
+      height: 226px;
+  }
+  .k37{
+    color: #4A4A4A;
+    font-family: Avenir;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 58px;
+    text-align: left;
+  }
+  .k17{
+    color: #ffffff;
+    font-family: Avenir;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 58px;
+    text-align: left;
+  }
+  .bg-text-1{
+    color: #4A4A4A;
+    font-family: Avenir;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  @media only screen and (max-width : 600px){
+    html,body{
+        overflow-x: hidden;
+        width: 100%;    
+    } 
+    
+}
+
